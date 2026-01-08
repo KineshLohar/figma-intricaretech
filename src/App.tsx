@@ -3,8 +3,8 @@ import CompleteLinkedInSalesSolutions from './components/CompleteLinkedInSalesSo
 import { FeatureStrip } from './components/FeatureStrip'
 import FinalCTA from './components/FinalCTA'
 import Footer from './components/Footer'
-import { HeroSection } from './components/Hero'
-import HowItWorks from './components/HowITWorks'
+import { HeroSection } from './components/Hero';
+import HowItWorks from './components/HowItWorks'
 import JoinProfessionalsCTA from './components/JoinProfessionalsCTA'
 import LeadCRMComparison from './components/LeadCRMComparison'
 import { Navbar } from './components/Navbar'
